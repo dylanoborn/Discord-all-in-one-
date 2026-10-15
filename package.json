@@ -1,0 +1,19 @@
+
+{
+  "name": "ticck-discord-bot",
+  "version": "1.0.0",
+  "description": "Ticck All-in-One Discord Bot",
+  "private": true,
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=24.17.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.2.2"
+  }
+}
